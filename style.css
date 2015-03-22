@@ -1,0 +1,18 @@
+/*
+Theme Name: Papermint
+Theme URI: http://papermint.ca
+Author: adam4ever
+Author URI: http://adam4ever.ca
+Description: 
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Papermint, freelance, greaphic design, wedding invitations
+*/
+
+@import url('css/fonts.css');
+@import url('css/nav.css');
+
+h1 {
+	color:hotpink;
+}
